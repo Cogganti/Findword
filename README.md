@@ -9,3 +9,9 @@ So,i just want to try several text formatting:
 # Hal # o
 
 *Italia*
+
+1. First
+2. Second
+
+- First
+- Second
